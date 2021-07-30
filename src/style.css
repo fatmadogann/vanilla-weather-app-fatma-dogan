@@ -1,5 +1,6 @@
 body {
   font-family: "Google Sans", arial, sans-serif;
+  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/014/242/original/pexels-snapwire-37728.jpg?1627655365");
 }
 
 h1 {
@@ -33,10 +34,12 @@ li:first-letter {
   max-width: 600px;
   margin: 40px auto;
 }
+
 .weather-app {
   padding: 20px;
   border: 1px solid #dadde1;
   border-radius: 5px;
+  background-color: pink;
 }
 
 .overview {
